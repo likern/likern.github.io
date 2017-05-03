@@ -1,3 +1,11 @@
 title: [Data Science and Software Engineering]
 description: [The art of mixing math and software]
 theme: jekyll-theme-minimal
+
+defaults:
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+      type: "posts" # previously `post` in Jekyll 2.2.
+    values:
+      layout: "default"

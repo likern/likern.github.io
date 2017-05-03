@@ -1,10 +1,10 @@
 ---
-layout: post
+layout: posts
 title:  "Python test!"
 date:   2016-05-04 00:12:00 -0400
 categories: python cli
 ---
-## Welcome to GitHub Pages
+## Welcome to Python Pages
 
 You can use the [editor on GitHub](https://github.com/likern/likern.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
